@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Icon/port.png</file>
+        <file>Icon/save.png</file>
+        <file>Icon/address.png</file>
+        <file>Icon/delete.png</file>
+        <file>Icon/create.png</file>
+        <file>Icon/CameraOff.png</file>
+        <file>Icon/CameraOn.png</file>
+    </qresource>
+</RCC>
